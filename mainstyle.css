@@ -1,0 +1,46 @@
+* {
+	margin: 0px;
+	padding: 0px;
+    box-sizing: border-box;
+    font-family: arial verdana;
+}
+body, html {
+  height: 100%
+
+}
+body {
+  background-color: #c5e3f6;
+}
+h3 {
+  margin-top: 50px;
+  color: #9c1de7;
+  text-align: center;
+}
+.inspsub {
+   width: 700px;
+   height: 500px;
+   background-color: #17b978;
+   margin: auto;
+   margin-top: 50px;
+   border-radius: 10px;
+   overflow: auto;
+   overflow-x: scroll;
+  
+}
+.mgi1 {
+   width: 150px;
+   height: 150px;
+    float: left;
+}
+h2 {
+  text-align: center;
+
+
+}
+.qut1 {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+
+

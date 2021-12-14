@@ -9,7 +9,7 @@ body, html {
 
 }
 body {
-  background-color: #c5e3f6;
+  background-color: blue;
 }
 h3 {
   margin-top: 50px;
@@ -25,7 +25,7 @@ h3 {
    border-radius: 10px;
    overflow: auto;
    overflow-x: scroll;
-  
+
 }
 .mgi1 {
    width: 150px;

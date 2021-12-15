@@ -9,12 +9,12 @@ body, html {
 
 }
 body {
-  background-color: blue;
+  background-color: green;
 }
 h3 {
   margin-top: 50px;
   color: rgb(204, 30, 146);
-  text-align: center;
+  text-align: right;
 }
 .inspsub {
    width: 700px;
